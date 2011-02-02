@@ -1,1 +1,1 @@
-TODO: Add background and goal.
+The goal of Activiti Accelerators Project is to complement the suite of Activiti tools with simple and robust applications.
