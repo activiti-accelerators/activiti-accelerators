@@ -4,7 +4,7 @@
 }
 
 body {
-	background: #1a1a1a;
+	background: #333;
 	color: #444;
 	font: 85% arial, sans-serif;
 }
@@ -352,7 +352,7 @@ li {
 	font-size: 1.2em;
 	margin: 0;
 	padding: 0;
-	line-height: 1.4em;
+	line-height: 1.2em;
 }
 
 #credits a {
